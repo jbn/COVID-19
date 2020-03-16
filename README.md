@@ -18,6 +18,10 @@ help you learn or add it directly if that's what you want.
 - [Ellie Murray, Ph.D.'s COVID-19 List](https://twitter.com/i/lists/1220869298631200769): A list of experts working on or tracking the coronavirus outbreak.  
 - [Jeff Jarvis' COVID-19 List](https://twitter.com/i/lists/1237834151694303234): Experts on the disease and its spread and reporters covering it.
 
+## Hardware
+
+- [Project OpenAir](https://www.projectopenair.org/): Open source ventilators in order to have a fast and easy solution to be reproduced and assembled locally worldwide.
+
 ## Donate Compute Time
 
 ### Folding At Home
