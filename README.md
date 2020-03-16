@@ -22,6 +22,11 @@ help you learn or add it directly if that's what you want.
 
 - [Open Source COVID19 Medical Supplies](https://www.facebook.com/groups/670932227050506/)
 
+## Data
+
+- [Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
+	- [Christopher D. Long's Fork](https://github.com/octonion/COVID-19)
+
 ## Hardware
 
 - [Project OpenAir](https://www.projectopenair.org/): Open source ventilators in order to have a fast and easy solution to be reproduced and assembled locally worldwide.
