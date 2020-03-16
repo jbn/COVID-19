@@ -9,9 +9,13 @@ If you don't know how to do so, please message me at
 via email [jbn@abreka.com](mailto:jbn@abreka.com) and I'll either
 help you learn or add it directly if that's what you want.
 
-## Communication
+## Mailing Lists
 
 - [Generativists: COVID-19](http://generativists.com/postorius/lists/covid-19.generativists.com/): This is a mailing list for COVID-19 discussions. It is trans-disciplinary, albeit with a computational focus (think computational social science or epidemiology). It is open to anyone, not just academics. The goal is to accelerate and facilitate collaborati
+
+## Twitter Lists
+
+- [Jeff Jarvis' COVID-19 List](https://twitter.com/i/lists/1237834151694303234): Experts on the disease and its spread and reporters covering it.
 
 ## Donate Compute Time
 
