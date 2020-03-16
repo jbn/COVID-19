@@ -1,5 +1,12 @@
 # COVID-19 Projects
 
+## Volunteering / Capabilities
+
+If you have capabilities or need help, send an announcement email to 
+[subscribe to COVID-19-Help-Needed](http://generativists.com/postorius/lists/covid-19-help-needed.generativists.com/). Also, add yourself to 
+[this google sheet to announce your capacity to help](https://docs.google.com/spreadsheets/d/1Vb3fKE68b0AlKyfQU28DOJeBtyHP6giNOVXmz2_ErkI/edit#gid=0).
+
+
 ## Contributing
 
 Anyone can open a pull request to add a category or a link.
