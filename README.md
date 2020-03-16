@@ -1,5 +1,9 @@
 # COVID-19 Projects
 
+## Communication
+
+- [Generativists: COVID-10](http://generativists.com/postorius/lists/covid-19.generativists.com/): This is a mailing list for COVID-19 discussions. It is trans-disciplinary, albeit with a computational focus (think computational social science or epidemiology). It is open to anyone, not just academics. The goal is to accelerate and facilitate collaborati
+
 ## Donate Compute Time
 
 ### Folding At Home
