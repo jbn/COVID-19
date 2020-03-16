@@ -1,8 +1,17 @@
 # COVID-19 Projects
 
+## Contributing
+
+Anyone can open a pull request to add a category or a link.
+
+If you don't know how to do so, please message me at
+[@generativist](https://twitter.com/generativist) on twitter or
+via email [jbn@abreka.com](mailto:jbn@abreka.com) and I'll either
+help you learn or add it directly if that's what you want.
+
 ## Communication
 
-- [Generativists: COVID-10](http://generativists.com/postorius/lists/covid-19.generativists.com/): This is a mailing list for COVID-19 discussions. It is trans-disciplinary, albeit with a computational focus (think computational social science or epidemiology). It is open to anyone, not just academics. The goal is to accelerate and facilitate collaborati
+- [Generativists: COVID-19](http://generativists.com/postorius/lists/covid-19.generativists.com/): This is a mailing list for COVID-19 discussions. It is trans-disciplinary, albeit with a computational focus (think computational social science or epidemiology). It is open to anyone, not just academics. The goal is to accelerate and facilitate collaborati
 
 ## Donate Compute Time
 
